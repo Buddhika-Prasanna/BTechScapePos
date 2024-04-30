@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">BTechScape POS</string>
     <string name="login">Login</string>
+    <string name="powered_by_btechscape">Powered by BtechScape</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
 </resources>
